@@ -13,10 +13,9 @@ healthcare, nursing, medication et al
 “만성질환 노인 환자의 응급입원 비율과 검사 결과는 어떠한가?”
 
 ### 2. 데이터 수집  
-DateSet : Healthcare Dataset
-Dataset Information:
+- DateSet : Healthcare Dataset
+- Dataset Information:
 Each column provides specific information about the patient, their admission, and the healthcare services provided, making this dataset suitable for various data analysis and modeling tasks in the healthcare domain. Here's a brief explanation of each column in the dataset -
-
 Name: This column represents the name of the patient associated with the healthcare record.
 Age: The age of the patient at the time of admission, expressed in years.
 Gender: Indicates the gender of the patient, either "Male" or "Female."
@@ -33,13 +32,14 @@ Discharge Date: The date on which the patient was discharged from the healthcare
 Medication: Identifies a medication prescribed or administered to the patient during their admission. Examples include "Aspirin," "Ibuprofen," "Penicillin," "Paracetamol," and "Lipitor."
 Test Results: Describes the results of a medical test conducted during the patient's admission. Possible values include "Normal," "Abnormal," or "Inconclusive," indicating the
 
-URI : https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
+- URI : https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
-### 3. data 전처리(EDA)  --> https://eda-ai-lab.tistory.com/13
+### 3. data 전처리(EDA) 
 1. 분석의 목적과 변수가 무엇이 있는지 확인
 2. 데이터 전체적으로 살펴보기 : head, tail, 이상치, 결측치
 3. 이상값 찾아내기
 4. 속성간의 관계 분석하기 
+URI :  https://eda-ai-lab.tistory.com/13
 
 ### 4. data analysis
 
