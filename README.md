@@ -7,12 +7,12 @@ healthcare, nursing, medication et al
 
 
 
-##1. 캐글 임상 데이터 사용해서 분석
+## 1. 캐글 임상 데이터 사용해서 분석
 
-###1. 문제정의 : 데이터를 통해 얻고자 하는 것은?
+### 1. 문제정의 : 데이터를 통해 얻고자 하는 것은?
 “만성질환 노인 환자의 응급입원 비율과 검사 결과는 어떠한가?”
 
-###2. 데이터 수집  
+### 2. 데이터 수집  
 DateSet : Healthcare Dataset
 Dataset Information:
 Each column provides specific information about the patient, their admission, and the healthcare services provided, making this dataset suitable for various data analysis and modeling tasks in the healthcare domain. Here's a brief explanation of each column in the dataset -
@@ -35,14 +35,14 @@ Test Results: Describes the results of a medical test conducted during the patie
 
 URI : https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
 
-###3. data 전처리(EDA)  --> https://eda-ai-lab.tistory.com/13
+### 3. data 전처리(EDA)  --> https://eda-ai-lab.tistory.com/13
 1. 분석의 목적과 변수가 무엇이 있는지 확인
 2. 데이터 전체적으로 살펴보기 : head, tail, 이상치, 결측치
 3. 이상값 찾아내기
 4. 속성간의 관계 분석하기 
 
-###4. data analysis
+### 4. data analysis
 
 
 
-###5. insigth 도출
+### 5. insigth 도출
