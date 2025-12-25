@@ -52,7 +52,7 @@ URI :  https://eda-ai-lab.tistory.com/13
 
 ### 1. 문제정의 : 데이터를 통해 얻고자 하는 것은?
 “간호기록을 어떻게 접근하고, 사용할것인지?"
-https://www.saan2mari.com/s-projects-side-by-side-1
+- https://www.saan2mari.com/s-projects-side-by-side-1
 
 ### 2. 데이터 수집  
 - DateSet : MIMIC-IV (https://physionet.org/)
