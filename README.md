@@ -46,3 +46,26 @@ URI :  https://eda-ai-lab.tistory.com/13
 
 
 ### 5. insigth 도출
+
+
+## 2. 간호 정보 데이터 사용 해서 분석
+
+### 1. 문제정의 : 데이터를 통해 얻고자 하는 것은?
+“중환자실 간호기록 확인하기"
+
+### 2. 데이터 수집  
+- DateSet : MIMIC-IV (https://physionet.org/)
+- Dataset Information:
+The icu module contains data sourced from the clinical information system at the BIDMC: MetaVision (iMDSoft). MetaVision tables were denormalized to create a star schema where the icustays and d_items tables link to a set of data tables all suffixed with "events". Data documented in the icu module includes intravenous and fluid inputs (inputevents), ingredients for the aforementioned inputs (ingredientevents), patient outputs (outputevents), procedures (procedureevents), information documented as a date or time (datetimeevents), and other charted information (chartevents). All events tables contain a stay_id column allowing identification of the associated ICU patient in icustays, and an itemid column allowing identification of the concept documented in d_items. Additionally, the caregiver table contains caregiver_id, a deidentified integer representing the care provider who documented data into the system. All events tables (chartevents, datetimeevents, ingredientevents, inputevents, outputevents, procedureevents) have a caregiver_id column which links to the caregiver table.
+
+- URI : https://physionet.org/
+- 자료 현재 신청중 (확인하고 있는 상황임)
+
+### 3. data 전처리(EDA) 
+
+
+### 4. data analysis
+
+
+
+### 5. insigth 도출
