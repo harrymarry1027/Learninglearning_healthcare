@@ -12,6 +12,7 @@
 - NLP & AI: SpaCy (v3.x), SciSpaCy (`en_core_sci_sm`), NegSpaCy (부정어 탐지)
 - UMLS : https://www.nlm.nih.gov/research/umls/index.html
 - Dataset: MIMIC-IV Clinical Database (`chartevents.csv`)
+- https://mimic.mit.edu/fhir/CodeSystem-mimic-chartevents-d-items.html(item 설명)
 
 ---
 
